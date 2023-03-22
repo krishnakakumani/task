@@ -1,0 +1,5 @@
+provider "aws" {
+  region = var.region
+  access_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+  secret_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+}
